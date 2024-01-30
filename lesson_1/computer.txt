@@ -1,0 +1,11 @@
+Nick: computer
+Title: Loser
+Tournament Title: Loser
+Statistics from single-player mode:
+Best score (Easy): 0
+Best score (Medium): 0
+Best score (Hard): 0
+Best score (Chaos): 0
+Statistics from multiplayer mode:
+Overall wins: 0
+Overall losses: 0

@@ -1,0 +1,11 @@
+Nick: kappa
+Title: Leader
+Tournament Title: Master
+Statistics from single-player mode:
+Best score (Easy): 2
+Best score (Medium): 1
+Best score (Hard): 0
+Best score (Chaos): 1
+Statistics from multiplayer mode:
+Overall wins: 2
+Overall losses: 7
